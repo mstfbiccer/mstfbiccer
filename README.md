@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 
-### Blogs posts
+### My Latest Blog Posts on Medium :pencil:
+
 <!-- BLOG-POST-LIST:START -->
 - [How to serve projects on localhost with SSL?](https://mstfbiccer.medium.com/how-to-serve-projects-on-localhost-with-ssl-d807a8a6b48b?source=rss-b15fb8901506------2)
 - [MBO &lpar;Management by Objectives&rpar;Nedir?](https://mstfbiccer.medium.com/mbo-management-by-objectives-nedir-ee2fac16ef48?source=rss-b15fb8901506------2)
@@ -10,7 +11,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-## Languages and Tools
+## My Tech Stack :hammer_and_wrench:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
