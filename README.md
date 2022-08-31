@@ -4,12 +4,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mstfbiccer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mstfbiccer" height="30" width="40" /></a>
-<a href="https://medium.com/@mstfbiccer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mstfbiccer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mstfbiccer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mstfbiccer" height="30" width="40" /></a>
-</p>
 
 ## Languages and Tools
 
@@ -33,3 +27,10 @@
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-%232C3A42?style=flat-square&logo=github)
+
+## Contact to Me 💬
+
+<p align="left">
+<a href="https://linkedin.com/in/mstfbiccer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mstfbiccer" height="30" width="40" /></a>
+<a href="https://medium.com/@mstfbiccer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mstfbiccer" height="30" width="40" /></a>
+</p>
