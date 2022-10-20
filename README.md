@@ -3,7 +3,7 @@
 ### My Latest Blog Posts on Medium :pencil:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web API Dünyası | Screen Capture &amp; Web Socket API](https://mstfbiccer.medium.com/web-api-d%C3%BCnyas%C4%B1-screen-capture-web-socket-api-92fd314e8155?source=rss-b15fb8901506------2)
+- [Web API Dünyası | Yerel Ağ Üzerinde Ekran Paylaşımı](https://mstfbiccer.medium.com/web-api-d%C3%BCnyas%C4%B1-screen-capture-web-socket-api-92fd314e8155?source=rss-b15fb8901506------2)
 - [Web API Dünyası | Speech API](https://mstfbiccer.medium.com/web-api-d%C3%BCnyas%C4%B1-speech-api-c4cc5d30c24e?source=rss-b15fb8901506------2)
 - [How to serve projects on localhost with SSL?](https://mstfbiccer.medium.com/how-to-serve-projects-on-localhost-with-ssl-d807a8a6b48b?source=rss-b15fb8901506------2)
 - [MBO &lpar;Management by Objectives&rpar;Nedir?](https://mstfbiccer.medium.com/mbo-management-by-objectives-nedir-ee2fac16ef48?source=rss-b15fb8901506------2)
