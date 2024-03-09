@@ -4,10 +4,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Malta’da İngilizce Öğrenebilir Miyim?](https://mstfbiccer.medium.com/maltada-i%CC%87ngilizce-%C3%B6%C4%9Frenebilir-miyim-96c1324ada87?source=rss-b15fb8901506------2)
+- [Next.js’te getServerSideProps ve getStaticProps: Dinamik Web Uygulamalarının Sırrı](https://mstfbiccer.medium.com/next-jste-getserversideprops-ve-getstaticprops-dinamik-web-uygulamalar%C4%B1n%C4%B1n-s%C4%B1rr%C4%B1-5970a7904359?source=rss-b15fb8901506------2)
 - [Web Sitem Ne Kadar Yaşayacak?](https://mstfbiccer.medium.com/web-sitem-ne-kadar-ya%C5%9Fayacak-841105e7d03?source=rss-b15fb8901506------2)
 - [Choose Your JavaScript Package Manager!](https://mstfbiccer.medium.com/choose-your-javascript-package-manager-aafc931d223d?source=rss-b15fb8901506------2)
 - [Web API Dünyası — GeoLocation API](https://mstfbiccer.medium.com/web-api-d%C3%BCnyas%C4%B1-geolocation-api-550e0b116456?source=rss-b15fb8901506------2)
-- [Web API Dünyası | Yerel Ağ Üzerinde Ekran Paylaşımı](https://mstfbiccer.medium.com/web-api-d%C3%BCnyas%C4%B1-screen-capture-web-socket-api-92fd314e8155?source=rss-b15fb8901506------2)
 <!-- BLOG-POST-LIST:END -->
 
 
