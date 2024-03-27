@@ -3,11 +3,11 @@
 ### My Latest Blog Posts on Medium :pencil:
 
 <!-- BLOG-POST-LIST:START -->
+- [Interaction to Next Paint &lpar;INP&rpar; Nedir?](https://mstfbiccer.medium.com/interaction-to-next-paint-inp-nedir-23e79038e348?source=rss-b15fb8901506------2)
 - [Malta’da İngilizce Öğrenebilir Miyim?](https://mstfbiccer.medium.com/maltada-i%CC%87ngilizce-%C3%B6%C4%9Frenebilir-miyim-96c1324ada87?source=rss-b15fb8901506------2)
 - [Next.js’te getServerSideProps ve getStaticProps: Dinamik Web Uygulamalarının Sırrı](https://mstfbiccer.medium.com/next-jste-getserversideprops-ve-getstaticprops-dinamik-web-uygulamalar%C4%B1n%C4%B1n-s%C4%B1rr%C4%B1-5970a7904359?source=rss-b15fb8901506------2)
 - [Web Sitem Ne Kadar Yaşayacak?](https://mstfbiccer.medium.com/web-sitem-ne-kadar-ya%C5%9Fayacak-841105e7d03?source=rss-b15fb8901506------2)
 - [Choose Your JavaScript Package Manager!](https://mstfbiccer.medium.com/choose-your-javascript-package-manager-aafc931d223d?source=rss-b15fb8901506------2)
-- [Web API Dünyası — GeoLocation API](https://mstfbiccer.medium.com/web-api-d%C3%BCnyas%C4%B1-geolocation-api-550e0b116456?source=rss-b15fb8901506------2)
 <!-- BLOG-POST-LIST:END -->
 
 
